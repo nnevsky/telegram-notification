@@ -59,7 +59,7 @@ There are some basic predefined features both for build and release tasks.
 *In order this to work properly, don't forget to change run conditions of the task to "Even if a previous task has failed"*
 
 * **Add project link** - adds a link to your team project 
-* **Message** - add a custom message to your notification. You can use [html markup](https://core.telegram.org/bots/api#html-style).
+* **Message** - add a custom message to your notification. You can use [html markup](https://core.telegram.org/bots/api#html-style). Use \n or %0A for line breaks.
 
 **For Release**
 
